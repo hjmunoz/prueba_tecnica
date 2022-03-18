@@ -1,0 +1,102 @@
+
+
+body{
+
+    background-image: url(../img/Fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.card img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative; left:920px; top: 50px ;
+}
+
+.contador{
+
+    height: 300px;
+    width: 300px;
+
+}
+
+.contador img{
+
+  
+    height: 400px;
+    position: absolute; top: 742px ; left: 53px ;
+
+}
+
+div .jugar {
+
+    position: absolute; bottom: 50px; right: 150px;
+    margin-top: 222px;
+
+}
+
+.definiciones{
+
+    float: right;
+    position: relative; right: 200px; bottom: 50px;
+}
+
+.definiciones .control{
+
+    margin-bottom: 40px;
+
+}
+
+.definiciones .planeacion{
+
+
+    margin-bottom: 40px;
+
+
+}
+
+.definiciones .direccion{
+
+    margin-bottom: 40px;
+
+
+}
+
+.conceptos{
+
+    float: right;
+    position: relative; right: 400px; bottom: 50px;
+}
+
+.conceptos .control{
+
+    padding-top: 5px;
+    margin-bottom: 70px;
+
+}
+
+.conceptos .planeacion{
+
+
+    margin-bottom: 80px;
+
+
+}
+
+.conceptos .direccion{
+
+    margin-bottom: 60px;
+
+
+}
+
+
+
+
+
+
+
+
+

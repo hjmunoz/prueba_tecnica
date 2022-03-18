@@ -1,0 +1,13 @@
+body{
+    background: url(../img/Mensajesyportada/portada.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    }
+
+    .card{
+        float: right;
+        position: relative; top: 675px; right: 5px;         
+    }
+
+    
